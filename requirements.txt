@@ -1,0 +1,12 @@
+streamlit
+python-docx
+PyMuPDF
+langchain>=0.2
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+python-dotenv
+torch>=2.0
